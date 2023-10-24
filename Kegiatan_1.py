@@ -24,6 +24,5 @@ for item in data:
     konvert = konversi(minggu)(hari)(jam)(menit)
     output_data.append(konvert)
 
-print("\nData = ", data)
+print("Data = ", data)
 print("Output Data = ", output_data)
-print("\n")
